@@ -61,7 +61,7 @@ six==1.17.0
 stack-data==0.6.3
 sympy==1.13.3
 torch==2.7.0.dev20250304+cu128
-torchvision @ file:///C:/Users/YiyangTian/Desktop/NeuVis/torchvision-0.22.0.dev20250304%2Bcu128-cp310-cp310-win_amd64.whl#sha256=51993ecdc03fed0834b4f2067c8324523272c3f5d02ad41545cad7da0b4ca4e7
+torchvision 
 tqdm==4.67.1
 traitlets==5.14.3
 trimesh==4.6.4
