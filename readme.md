@@ -42,7 +42,7 @@ This code has been tested on Ubuntu 20.04 with 4 Nvidia 4090 GPUs (24GB memory).
 
 ### 2. Training
 
-2.1 Download the [ShapeNetV2]([ShapeNet](https://shapenet.org/)) dataset and extract it to the data directory. You could also use other dataset, as long as the folder is organized as:
+2.1 Download the [ShapeNetV2](https://shapenet.org/) dataset and extract it to the data directory. You could also use other dataset, as long as the folder is organized as:
 
    ```
    --ShapeNet
@@ -79,11 +79,11 @@ This code has been tested on Ubuntu 20.04 with 4 Nvidia 4090 GPUs (24GB memory).
    python script.py
    ```
    See the `script.py` for more details.
-   We also provide our pretrained model at [Huggingface]([huggingface](https://huggingface.co/JKAlice/neuvis)). You can download and put it in the `logs/depth8/checkpoints` folder, then run the script above to evaluate it.
+   We also provide our pretrained model at [Huggingface](https://huggingface.co/JKAlice/neuvis). You can download and put it in the `logs/depth8/checkpoints` folder, then run the script above to evaluate it.
 
 ### 3. UI
 
-3.1 Download our pretrained model at [Huggingface]([huggingface](https://huggingface.co/JKAlice/neuvis)).
+3.1 Download our pretrained model at [Huggingface](https://huggingface.co/JKAlice/neuvis).
 
 3.2 Install the required packages.
 
